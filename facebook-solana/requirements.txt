@@ -1,0 +1,2 @@
+npm install --save @solana/web3.js
+npx create-next-app facebook-solana
